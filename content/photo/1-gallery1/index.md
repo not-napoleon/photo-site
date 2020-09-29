@@ -73,12 +73,6 @@ resources:
     order: 12
     description: Restrictions promote novel results.  I needed to test out a telephoto lens I was considering, so I went looking for things to point it at.  This turns out to be my favorite image from the whole trip.
 
-- src: "Gallery - 20200215 - Ithaca Falls Ice - web resolution.jpg"
-  name: 
-  params:
-    order: 13
-    description: 
-
 - src: "Gallery - 20200216 - Taughannock Falls Icicles - web resolution.jpg"
   name: Taughannock Falls Icicles 
   params:
