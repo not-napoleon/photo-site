@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://marktozzi.com/"
+baseurl = "https://marktozzi.com/"
 languageCode = "en-us"
 title = "Images by Mark Tozzi"
 theme = "photo-grid"
