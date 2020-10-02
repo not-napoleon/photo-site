@@ -17,7 +17,7 @@ resources:
   name: Tolliver Falls
   params:
     order: 3
-    description: It had just started raining when I was setting up for this (you can see the drops in the pool), so I took this image in a bit of a rush before my equipement and I were soaked.  Thankfully it was a short trail back to the parking lot.
+    description: It had just started raining when I was setting up for this (you can see the drops in the pool), so I took this image in a bit of a rush before my equipment and I were soaked.  Thankfully it was a short trail back to the parking lot.
 
 - src: "Gallery - 20160701 - Sunset at Torrey Pines - web resolution.jpg"
   name: Sunset at Torrey Pines
@@ -35,7 +35,7 @@ resources:
   name: Robert Treman State Park - Stairs Section
   params:
     order: 6
-    description: Unfortunately I was too early for Autumn colors here.  Park was a lovely hike though, and quite beutiful.
+    description: Unfortunately I was too early for Autumn colors here.  Park was a lovely hike though, and quite beautiful.
 
 - src: "Gallery - 20191006 - Robert Treman State Park - web resolution.jpg"
   name: Robert Treman State Park
@@ -43,23 +43,17 @@ resources:
     order: 7
     description: The central cascade there is one of my favorite falls, and I love how the rock outcroppings frame it.
 
-- src: "Gallery - 20191008 - In The Gorge - web resolution.jpg"
-  name: In The Gorge
-  params:
-    order: 8
-    description: The less said about this image, the better.
-
 - src: "Gallery - 20191008 - Stone Pagodas - web resolution.jpg"
   name: Stone Pagodas
   params:
     order: 9
-    description: Don't build these, they're bad for wildlife and for trails.  That said, this huge set of them was built right off a high traffic trail (I think a dozen people passed me while I was getting this image, and I didn't take long to shoot it) and next to a constructed shelter, so I didn't feel too bad about it.
+    description: Don't build these, they're bad for wildlife and for trails.  That said, this huge set of them was built right off a high traffic trail (I think a dozen people passed me while I was getting this image, and I didn't take long to shoot it), and next to a constructed shelter, so I didn't feel too bad about it.
 
 - src: "Gallery - 20191009 - Ithaca Falls - Turning Leaves - web resolution.jpg"
   name: Ithaca Falls - Turning Leaves
   params:
     order: 10
-    description: The art of photography is about illusion, creating the idea of wilderness even in the heart of a city.  There were about a dozen people fishing just out of frame here.
+    description: The art of landscape photography is about illusion, creating the idea of wilderness even in the heart of a city.  There were about a dozen people fishing just out of frame here.
 
 - src: "Gallery - 20200215 - Frozen waterfall - web resolution.jpg"
   name: Frozen Waterfall
@@ -68,7 +62,7 @@ resources:
     description: 
 
 - src: "Gallery - 20200215 - Ice Cave - web resolution.jpg"
-  name: 
+  name: Ice Cave
   params:
     order: 12
     description: Restrictions promote novel results.  I needed to test out a telephoto lens I was considering, so I went looking for things to point it at.  This turns out to be my favorite image from the whole trip.
@@ -95,7 +89,7 @@ resources:
   name: First Touch of Fall
   params:
     order: 17
-    description: Conditions were pretty hard for this image, bright sun and hazy, but I thought I'd try it anyway.  First time trying a square crop, I think I like it.
+    description: Conditions in the Blue Ridge Mountains were pretty hard for this image, bright sun and hazy, but I thought I'd try it anyway.  First time trying a square crop, I think I like it.
 
 - src: "Gallery - 20200824 - Fren Detail - web resolution.jpg"
   name: Fern Detail 
