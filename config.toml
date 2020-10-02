@@ -22,3 +22,4 @@ theme = "photo-grid"
 
     # Footer text
     # footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io), [Pavel](https://themes.gohugo.io/hugrid/) and [me](https://chen-zhe.github.io)."
+    footertext = "Copyright (C) 2020 by Mark Tozzi"
