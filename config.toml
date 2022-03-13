@@ -18,4 +18,19 @@ theme = "autophugo"
     full_resize_method = "Fit"
     # Layout
     column_count = 4
+    images_downloadable = false
+
+    [[params.header.links]]
+    name = "About"
+    url = "#footer"
+    icon = "fa-info-circle"
     
+    [params.footer.paragraph]
+    headline = "Images by Mark Tozzi"
+    text = "I'm an amateur photographer based out of Baltimre, MD, United States.  Photography doesn't have to be about exotic locations and grand vistas.  I try to capture the beauty of quiet spaces, hidden nooks, and side trails.  I love moving water, especially waterfalls, and am branching out into macro photography."
+
+    [params.footer.copyright]
+    name = "Mark Tozzi"
+
+    [params.footer.contact]
+    hide = true
