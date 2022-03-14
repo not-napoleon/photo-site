@@ -3,4 +3,4 @@
 	url = git@github.com:not-napoleon/photo-grid.git
 [submodule "themes/autophugo"]
 	path = themes/autophugo
-	url = git@github.com:not-napoleon/autophugo.git
+	url = https://github.com/not-napoleon/autophugo.git
