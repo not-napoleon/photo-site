@@ -4,7 +4,6 @@ date: 2022-03-13T11:02:48-04:00
 draft: false
 resources:
 - Gallery - 20150702 - Lower Elakala Falls - web resolution.jpg
-- Gallery - 20151009 - Autum Leaf Detail - web resolution.jpg
 - Gallery - 20151009 - Autumn Leaf Detail - web resolution.jpg
 - Gallery - 20151009 - Tolliver Falls - web resolution.jpg
 - Gallery - 20160701 - Sunset at Torrey Pines - web resolution.jpg
