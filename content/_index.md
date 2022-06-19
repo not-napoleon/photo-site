@@ -30,5 +30,6 @@ resources:
 - Gallery - 20211113 - Layered Leaves - web resolution.jpg
 - Gallery - 20220327 - Cherry Blossoms at Druid Hill - web resolution.jpg
 - Gallery - 20220327 - Moody Cherry Blossoms - web resolution.jpg
+- Gallery - 20220618 - Fern Spotlight - web resolution.jpg
 ---
 
