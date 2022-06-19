@@ -14,8 +14,7 @@ theme = "autophugo"
     # Image Sizing
     thumb_width = 600
     thumb_quality = 100
-    full_size = "1200x1200 q100"
-    full_resize_method = "Fit"
+    full_resize_method = "none"
     # Layout
     column_count = 4
     images_downloadable = false
