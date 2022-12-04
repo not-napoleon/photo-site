@@ -26,7 +26,7 @@ theme = "autophugo"
     
     [params.footer.paragraph]
     headline = "Images by Mark Tozzi"
-    text = "I'm an amateur photographer based out of Baltimre, MD, United States.  Photography doesn't have to be about exotic locations and grand vistas.  I try to capture the beauty of quiet spaces, hidden nooks, and side trails.  I love moving water, especially waterfalls, and am branching out into macro photography."
+    text = "I'm an amateur photographer based out of Baltimore, MD, United States.  Photography doesn't have to be about exotic locations and grand vistas.  I try to capture the beauty of quiet spaces, hidden nooks, and side trails.  I love moving water, especially waterfalls, and am branching out into macro photography."
 
     [params.footer.copyright]
     name = "Mark Tozzi"
