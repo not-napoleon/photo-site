@@ -31,5 +31,13 @@ resources:
 - Gallery - 20220327 - Cherry Blossoms at Druid Hill - web resolution.jpg
 - Gallery - 20220327 - Moody Cherry Blossoms - web resolution.jpg
 - Gallery - 20220618 - Fern Spotlight - web resolution.jpg
+- Gallery - 20151009 - Autum Leaf Detail - web resolution.jpg
+- Gallery - 20220423 - Shenandoah Valley Sunset 3 - web resolution.jpg
+- Gallery - 20220731 - Tree Fern - web resolution.jpg
+- Gallery - 20220802 - Waterfall Detail - web resolution.jpg
+- Gallery - 20221023 - Autumn Waterfall - web resolution.jpg
+- Gallery - 20221023 - Canopy 1 - web resolution.jpg
+- Gallery - 20221024 - Buddha of Pennsylvania - web resolution.jpg
+- Gallery - 20230321 - Cherry Blossoms Dream - web resolution.jpg
 ---
 
