@@ -4,3 +4,6 @@
 [submodule "themes/autophugo"]
 	path = themes/autophugo
 	url = https://github.com/not-napoleon/autophugo.git
+[submodule "themes/foto"]
+	path = themes/foto
+	url = https://github.com/not-napoleon/hugo-foto-theme.git
