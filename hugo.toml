@@ -6,3 +6,10 @@ theme = "foto"
 
 [params]
     credit = "Mark Tozzi"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  keyword = "keywords"
+  year = "year"
+  equipment = "equipment"
