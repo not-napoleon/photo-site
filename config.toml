@@ -2,34 +2,7 @@
 baseurl = "https://photography.marktozzi.com/"
 languageCode = "en-us"
 title = "Images by Mark Tozzi"
-theme = "autophugo"
-
-# Enter your tracking code to enable Google Analytics
-# googleAnalytics = "UA-XXXXXXXX-Y"x
-
-[Author]
-    name = "Mark Tozzi"
+theme = "foto"
 
 [params]
-    # Image Sizing
-    thumb_width = 600
-    thumb_quality = 100
-    full_resize_method = "none"
-    # Layout
-    column_count = 4
-    images_downloadable = false
-
-    [[params.header.links]]
-    name = "About"
-    url = "#footer"
-    icon = "fa-info-circle"
-    
-    [params.footer.paragraph]
-    headline = "Images by Mark Tozzi"
-    text = "I'm an amateur photographer based out of Baltimore, MD, United States.  Photography doesn't have to be about exotic locations and grand vistas.  I try to capture the beauty of quiet spaces, hidden nooks, and side trails.  I love moving water, especially waterfalls, and am branching out into macro photography."
-
-    [params.footer.copyright]
-    name = "Mark Tozzi"
-
-    [params.footer.contact]
-    hide = true
+    credit = "Mark Tozzi"
