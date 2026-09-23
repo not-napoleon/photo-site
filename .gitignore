@@ -1,6 +1,8 @@
 .DS_Store
 resources/
+public/
 
 # Local Netlify folder
 .netlify
 .hugo_build.lock
+
