@@ -34,4 +34,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "Fern_Spotlight"
 ---

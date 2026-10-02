@@ -31,4 +31,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "In_The_Gorge"
 ---

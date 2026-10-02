@@ -29,4 +29,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "First_Touch_of_Fall_-_Blue_Ridge_Mountains"
 ---

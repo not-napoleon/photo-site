@@ -29,4 +29,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "Cherry_Blossoms_at_Druid_Hill"
 ---

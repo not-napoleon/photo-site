@@ -29,4 +29,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "McKinny_State_Park"
 ---

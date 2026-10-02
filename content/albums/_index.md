@@ -19,7 +19,7 @@ subAlbums:
     originalSize: "images/Ferns_and_Flowers/fo2_ebm4sq_12ndsb5_full_size.jpg"
   imageCount: 5
   path: "/albums/ferns_and_flowers"
-  lastUpdated: "2026-09-23 11:40:57"
+  lastUpdated: "2026-10-02 17:05:28"
 - albumId: "zf5xs56"
   title: "Human Objects"
   albumTitle: "Human Objects"
@@ -32,7 +32,7 @@ subAlbums:
     originalSize: "images/Human_Objects/fo2_zf5xs56_zupe1gu_full_size.jpg"
   imageCount: 1
   path: "/albums/human_objects"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - albumId: "zbho8fb"
   title: "Moving Water"
   albumTitle: "Moving Water"
@@ -45,7 +45,7 @@ subAlbums:
     originalSize: "images/Moving_Water/fo2_zbho8fb_1lhh8f_full_size.jpg"
   imageCount: 14
   path: "/albums/moving_water"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - albumId: "14sfgda"
   title: "Tree Portraits"
   albumTitle: "Tree Portraits"
@@ -58,7 +58,7 @@ subAlbums:
     originalSize: "images/Tree_Portraits/fo2_14sfgda_14yowb9_full_size.jpg"
   imageCount: 11
   path: "/albums/tree_portraits"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 images: []
-lastUpdated: "2026-09-23 11:40:58"
+lastUpdated: "2026-10-02 17:05:28"
 ---

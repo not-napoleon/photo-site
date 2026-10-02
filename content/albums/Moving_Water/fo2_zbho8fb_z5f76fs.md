@@ -32,4 +32,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "Lower_Elakala_Falls"
 ---

@@ -31,4 +31,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "Ithaca_Falls_-_Turning_Leaves"
 ---

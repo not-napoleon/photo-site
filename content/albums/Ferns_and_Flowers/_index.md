@@ -23,7 +23,7 @@ images:
     largeImage: "images/Ferns_and_Flowers/fo2_ebm4sq_12ndsb5_large_size.jpg"
     originalSize: "images/Ferns_and_Flowers/fo2_ebm4sq_12ndsb5_full_size.jpg"
   imageTitle: "Blue Macro"
-  lastUpdated: "2026-09-23 11:40:57"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_ebm4sq_13wwm8"
   imagePaths:
     imageId: "fo2_ebm4sq_13wwm8"
@@ -33,7 +33,7 @@ images:
     largeImage: "images/Ferns_and_Flowers/fo2_ebm4sq_13wwm8_large_size.jpg"
     originalSize: "images/Ferns_and_Flowers/fo2_ebm4sq_13wwm8_full_size.jpg"
   imageTitle: "Tree Fern"
-  lastUpdated: "2026-09-23 11:40:57"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_ebm4sq_6u3ihi"
   imagePaths:
     imageId: "fo2_ebm4sq_6u3ihi"
@@ -43,7 +43,7 @@ images:
     largeImage: "images/Ferns_and_Flowers/fo2_ebm4sq_6u3ihi_large_size.jpg"
     originalSize: "images/Ferns_and_Flowers/fo2_ebm4sq_6u3ihi_full_size.jpg"
   imageTitle: "Fern Spotlight"
-  lastUpdated: "2026-09-23 11:40:57"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_ebm4sq_9in9ga"
   imagePaths:
     imageId: "fo2_ebm4sq_9in9ga"
@@ -53,7 +53,7 @@ images:
     largeImage: "images/Ferns_and_Flowers/fo2_ebm4sq_9in9ga_large_size.jpg"
     originalSize: "images/Ferns_and_Flowers/fo2_ebm4sq_9in9ga_full_size.jpg"
   imageTitle: "Cherry Blossoms Dream"
-  lastUpdated: "2026-09-23 11:40:57"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_ebm4sq_z12jpwvg"
   imagePaths:
     imageId: "fo2_ebm4sq_z12jpwvg"
@@ -63,6 +63,6 @@ images:
     largeImage: "images/Ferns_and_Flowers/fo2_ebm4sq_z12jpwvg_large_size.jpg"
     originalSize: "images/Ferns_and_Flowers/fo2_ebm4sq_z12jpwvg_full_size.jpg"
   imageTitle: "Fren Detail"
-  lastUpdated: "2026-09-23 11:40:57"
-lastUpdated: "2026-09-23 11:40:57"
+  lastUpdated: "2026-10-02 09:37:59"
+lastUpdated: "2026-10-02 09:37:59"
 ---

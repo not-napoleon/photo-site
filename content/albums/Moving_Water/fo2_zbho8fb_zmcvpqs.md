@@ -30,4 +30,5 @@ exifDetails:
 marketplace: []
 extra:
   "parameter_name": "parameter_value"
+slug: "Autumn_Waterfall"
 ---

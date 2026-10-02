@@ -23,6 +23,6 @@ images:
     largeImage: "images/Human_Objects/fo2_zf5xs56_zupe1gu_large_size.jpg"
     originalSize: "images/Human_Objects/fo2_zf5xs56_zupe1gu_full_size.jpg"
   imageTitle: "Buddha of Pennsylvania"
-  lastUpdated: "2026-09-23 11:40:58"
-lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
+lastUpdated: "2026-10-02 17:05:28"
 ---

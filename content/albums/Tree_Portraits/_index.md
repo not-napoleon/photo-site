@@ -23,7 +23,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_14yowb9_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_14yowb9_full_size.jpg"
   imageTitle: "Tree Root Minimalism"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_5i1di1"
   imagePaths:
     imageId: "fo2_14sfgda_5i1di1"
@@ -33,7 +33,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_5i1di1_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_5i1di1_full_size.jpg"
   imageTitle: "Golden Oak Leaves"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_82s1mo"
   imagePaths:
     imageId: "fo2_14sfgda_82s1mo"
@@ -43,7 +43,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_82s1mo_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_82s1mo_full_size.jpg"
   imageTitle: "Moody Cherry Blossoms"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_eejnjx"
   imagePaths:
     imageId: "fo2_14sfgda_eejnjx"
@@ -53,7 +53,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_eejnjx_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_eejnjx_full_size.jpg"
   imageTitle: "Sunset at Torrey Pines"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_v5wrm8"
   imagePaths:
     imageId: "fo2_14sfgda_v5wrm8"
@@ -63,7 +63,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_v5wrm8_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_v5wrm8_full_size.jpg"
   imageTitle: "Layered Leaves"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_z10wlsct"
   imagePaths:
     imageId: "fo2_14sfgda_z10wlsct"
@@ -73,7 +73,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_z10wlsct_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_z10wlsct_full_size.jpg"
   imageTitle: "Trees in the Mist"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_z16xqwl"
   imagePaths:
     imageId: "fo2_14sfgda_z16xqwl"
@@ -83,7 +83,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_z16xqwl_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_z16xqwl_full_size.jpg"
   imageTitle: "Autum Leaf Detail"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_z3cryoe"
   imagePaths:
     imageId: "fo2_14sfgda_z3cryoe"
@@ -93,7 +93,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_z3cryoe_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_z3cryoe_full_size.jpg"
   imageTitle: "Dead Tree B&W"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_z577qej"
   imagePaths:
     imageId: "fo2_14sfgda_z577qej"
@@ -103,7 +103,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_z577qej_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_z577qej_full_size.jpg"
   imageTitle: "Autumn in Patapsco"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_z5bn288"
   imagePaths:
     imageId: "fo2_14sfgda_z5bn288"
@@ -113,7 +113,7 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_z5bn288_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_z5bn288_full_size.jpg"
   imageTitle: "Cherry Blossoms at Druid Hill"
-  lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
 - imageId: "fo2_14sfgda_z9dunks"
   imagePaths:
     imageId: "fo2_14sfgda_z9dunks"
@@ -123,6 +123,6 @@ images:
     largeImage: "images/Tree_Portraits/fo2_14sfgda_z9dunks_large_size.jpg"
     originalSize: "images/Tree_Portraits/fo2_14sfgda_z9dunks_full_size.jpg"
   imageTitle: "First Touch of Fall - Blue Ridge Mountains"
-  lastUpdated: "2026-09-23 11:40:58"
-lastUpdated: "2026-09-23 11:40:58"
+  lastUpdated: "2026-10-02 17:05:28"
+lastUpdated: "2026-10-02 17:05:28"
 ---
